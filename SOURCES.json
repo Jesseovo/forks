@@ -1,0 +1,67 @@
+{
+  "import_date": "2026-10-20",
+  "import_method": "git subtree add (full history, no squash)",
+  "sources": [
+    {
+      "name": "awesome-ai-plugins",
+      "directory": "awesome-ai-plugins",
+      "fork": "https://github.com/Jesseovo/awesome-ai-plugins",
+      "upstream": "https://github.com/hashgraph-online/awesome-ai-plugins",
+      "imported_branch": "add-last30days-skill-cn",
+      "imported_commit": "7f795d01a461e6edc8884d314866fe569d19b2e2",
+      "original_default_branch": "main",
+      "license": "Apache-2.0",
+      "branch_snapshots": [
+        {
+          "name": "add-last30days-skill-cn",
+          "commit": "7f795d01a461e6edc8884d314866fe569d19b2e2",
+          "tag": "source/awesome-ai-plugins/add-last30days-skill-cn"
+        },
+        {
+          "name": "main",
+          "commit": "93628a8a284b9d426160779e3f4f5496cac5bd36",
+          "tag": "source/awesome-ai-plugins/main"
+        }
+      ],
+      "open_upstream_prs": [
+        "https://github.com/hashgraph-online/awesome-ai-plugins/pull/755"
+      ]
+    },
+    {
+      "name": "ai-website-cloner-template",
+      "directory": "ai-website-cloner-template",
+      "fork": "https://github.com/Jesseovo/ai-website-cloner-template",
+      "upstream": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "imported_branch": "master",
+      "imported_commit": "a9b35751b756dd8e9c3951afec86d2cb869c4e0f",
+      "original_default_branch": "master",
+      "license": "MIT",
+      "branch_snapshots": [
+        {
+          "name": "master",
+          "commit": "a9b35751b756dd8e9c3951afec86d2cb869c4e0f",
+          "tag": "source/ai-website-cloner-template/master"
+        }
+      ],
+      "open_upstream_prs": []
+    },
+    {
+      "name": "netease-cloud-api",
+      "directory": "netease-cloud-api",
+      "fork": "https://github.com/Jesseovo/netease-cloud-api",
+      "upstream": "https://github.com/ZainCheung/netease-cloud-api",
+      "imported_branch": "master",
+      "imported_commit": "e8542de199a3379cbc50af07524d373bbbacdfc5",
+      "original_default_branch": "master",
+      "license": "MIT",
+      "branch_snapshots": [
+        {
+          "name": "master",
+          "commit": "e8542de199a3379cbc50af07524d373bbbacdfc5",
+          "tag": "source/netease-cloud-api/master"
+        }
+      ],
+      "open_upstream_prs": []
+    }
+  ]
+}
