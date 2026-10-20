@@ -19,7 +19,9 @@
 
 `awesome-ai-plugins` 导入的是包含你本次目录贡献的 `add-last30days-skill-cn` 分支；原 `main` 分支另有来源标签。其 [上游 PR #755](https://github.com/hashgraph-online/awesome-ai-plugins/pull/755) 仍通过原 Fork 关联和更新。
 
-GitHub 的 Fork 网络与已有 PR 仍属于原仓库。本集合仓库用于集中保存和浏览代码，原 Fork 继续保留。
+原 `awesome-ai-plugins` Fork 继续保留，用于关联和更新 PR #755。原 `ai-website-cloner-template` 与 `netease-cloud-api` Fork 已在核验迁移结果并备份后删除；它们的源码、提交历史和分支快照保存在本集合中。
+
+GitHub 的 Fork 网络和已有 PR 不会随源码合并迁入本集合仓库。
 
 ## 许可与来源
 
